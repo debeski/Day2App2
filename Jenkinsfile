@@ -27,6 +27,14 @@ pipeline
                 echo 'Build Completed Successfully'
             }
         }
+        stage('Test')
+        {
+            steps{
+                script{
+                    bat 'dotnet test --no-build --verbosity normal'
+                }
+            }
+        }
         stage('Run')
         {
             steps

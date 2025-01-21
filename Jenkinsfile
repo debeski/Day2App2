@@ -36,14 +36,14 @@ pipeline
             }
         }
     }
-}
-Post
-{
-    success{
-        echo 'Pipeline Completed successfully'
-    }
-    failure
+    post
     {
-        echo 'Pipeline Failed'
+        success{
+            echo 'Pipeline Completed successfully'
+        }
+        failure
+        {
+            echo 'Pipeline Failed'
+        }
     }
 }

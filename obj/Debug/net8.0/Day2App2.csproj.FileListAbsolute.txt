@@ -1,0 +1,15 @@
+D:\jenny\kate\Day2App2\bin\Debug\net8.0\Day2App2.exe
+D:\jenny\kate\Day2App2\bin\Debug\net8.0\Day2App2.deps.json
+D:\jenny\kate\Day2App2\bin\Debug\net8.0\Day2App2.runtimeconfig.json
+D:\jenny\kate\Day2App2\bin\Debug\net8.0\Day2App2.dll
+D:\jenny\kate\Day2App2\bin\Debug\net8.0\Day2App2.pdb
+D:\jenny\kate\Day2App2\obj\Debug\net8.0\Day2App2.GeneratedMSBuildEditorConfig.editorconfig
+D:\jenny\kate\Day2App2\obj\Debug\net8.0\Day2App2.AssemblyInfoInputs.cache
+D:\jenny\kate\Day2App2\obj\Debug\net8.0\Day2App2.AssemblyInfo.cs
+D:\jenny\kate\Day2App2\obj\Debug\net8.0\Day2App2.csproj.CoreCompileInputs.cache
+D:\jenny\kate\Day2App2\obj\Debug\net8.0\Day2App2.sourcelink.json
+D:\jenny\kate\Day2App2\obj\Debug\net8.0\Day2App2.dll
+D:\jenny\kate\Day2App2\obj\Debug\net8.0\refint\Day2App2.dll
+D:\jenny\kate\Day2App2\obj\Debug\net8.0\Day2App2.pdb
+D:\jenny\kate\Day2App2\obj\Debug\net8.0\Day2App2.genruntimeconfig.cache
+D:\jenny\kate\Day2App2\obj\Debug\net8.0\ref\Day2App2.dll
